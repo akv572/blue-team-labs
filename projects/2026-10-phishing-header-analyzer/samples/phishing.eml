@@ -1,0 +1,21 @@
+From: PayPal Security <security@paypaI-secure.com>
+To: victim@example.com
+Reply-To: supportdesk@fastmail-provider.net
+Subject: Urgent: unusual activity detected, verify now
+Date: Fri, 17 Oct 2026 09:12:44 +0000
+Return-Path: <bounce@mail-relay.evilops.ru>
+Authentication-Results: mx.example.com; spf=fail; dkim=none; dmarc=fail
+Received: from mail-relay.evilops.ru (unknown [198.51.100.23])
+        by mx.example.com with ESMTP id 9f31ab for <victim@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Dear customer,
+
+We detected unusual activity on your account. Your account will be
+suspended unless you verify your identity immediately.
+
+Verify now: https://paypaI-secure.com/account/verify?session=8f31ab
+
+Thank you,
+PayPal Security Team

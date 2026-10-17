@@ -1,0 +1,26 @@
+From: GitHub <noreply@github.com>
+To: arun@example.com
+Subject: [GitHub] Your weekly digest
+Date: Thu, 16 Oct 2026 14:02:11 +0000
+Return-Path: <noreply@github.com>
+Authentication-Results: mx.example.com; spf=pass; dkim=pass; dmarc=pass
+Received: from out-3.smtp.github.com (out-3.smtp.github.com [140.82.112.3])
+        by mx.example.com with ESMTPS id a1b2c3 for <arun@example.com>;
+        Thu, 16 Oct 2026 14:02:12 +0000
+Received: from github.com (internal)
+        by out-3.smtp.github.com with SMTP id d4e5f6;
+        Thu, 16 Oct 2026 14:02:10 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Hi there,
+
+Here is what happened in repositories you follow this week.
+
+- android-malware-detection: 2 new commits
+- soc-analyst-toolkit: 1 new release
+
+See more: https://github.com/notifications
+
+Cheers,
+The GitHub Team

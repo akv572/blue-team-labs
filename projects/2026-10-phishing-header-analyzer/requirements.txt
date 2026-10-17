@@ -1,0 +1,2 @@
+# Standard library only: email, re, argparse, pathlib.
+# No third-party dependencies required.
