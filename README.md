@@ -8,6 +8,7 @@ states its honest scope, and is verified before it lands here.
 
 | Shipped | Project | What it does |
 |---|---|---|
+| 2026-11 | [mini-siem](projects/2026-11-mini-siem/) | Ingests Linux auth, Windows Security and web access logs into one SQLite schema, runs five YAML detection rules and writes a Markdown alert report |
 | 2026-10 | [Phishing Header Analyzer](projects/2026-10-phishing-header-analyzer/) | Parses `.eml` files and scores phishing indicators: auth failures, display name spoofing, lookalike domains, Reply-To mismatches |
 
 More drops land around the 15th of each month.

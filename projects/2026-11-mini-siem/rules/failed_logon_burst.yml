@@ -1,0 +1,9 @@
+id: failed-logon-burst
+name: Failed logon burst
+severity: high
+description: Flags a source IP with many failed logon attempts in a short
+  window, the classic signature of a brute force attack.
+type: burst
+params:
+  window_minutes: 10
+  threshold: 10

@@ -1,0 +1,9 @@
+id: off-hours-admin-logon
+name: Off-hours privileged logon
+severity: medium
+description: Flags successful logons by privileged accounts outside the
+  configured working-hours window.
+type: off_hours_admin
+params:
+  day_start_hour: 6
+  day_end_hour: 22

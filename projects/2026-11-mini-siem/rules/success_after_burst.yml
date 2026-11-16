@@ -1,0 +1,8 @@
+id: success-after-burst
+name: Successful logon after burst
+severity: critical
+description: Flags a successful logon from a source IP shortly after that IP
+  produced a failed-logon burst, a strong sign the brute force worked.
+type: success_after_fail
+params:
+  follow_minutes: 30

@@ -1,0 +1,8 @@
+id: new-user-created
+name: New user account created
+severity: medium
+description: Flags any user-creation event (Windows Event ID 4720). New
+  accounts, especially service-style names, deserve a look after other
+  suspicious activity.
+type: new_user
+params: {}
